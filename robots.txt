@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sabablip.github.io/lucasrodrigues-adv/sitemap.xml
